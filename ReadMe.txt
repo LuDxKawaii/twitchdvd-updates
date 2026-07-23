@@ -8,8 +8,8 @@
 UPDATE 1.2 CHANGELOG
 ------------------------------------------------------------------------
 * Connectivity, UI & System
-  - Added an automated, self-cleaning in-game update system to seamlessly 
-    download and install new versions directly from the menu.
+  - Added an automated in-game update system to download 
+    and install new versions directly from the menu.
   - Better connection integration to Twitch for more reliable gameplay.
   - Improved color rendering to provide better visibility for dark colors.
 
