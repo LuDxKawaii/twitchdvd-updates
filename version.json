@@ -1,4 +1,4 @@
 {
   "version": 1.2,
-  "notes": "* Connectivity, UI & System\n  - Added an automated, self-cleaning in-game update system to seamlessly \n    download and install new versions directly from the menu.\n  - Better connection integration to Twitch for more reliable gameplay.\n  - Improved color rendering to provide better visibility for dark colors.\n\n* New Game Mode: DVDClash\n  - Added DVD Clash, a brand new team-based battle game.\n  - See Section 5 below for full rules, commands, and powerups!"
+  "notes": "* Connectivity, UI & System\n  - Added an automated in-game update system to download\n  and install new versions directly from the menu.\n  - Better connection integration to Twitch for more reliable gameplay.\n  - Improved color rendering to provide better visibility for dark colors.\n\n* New Game Mode: DVDClash\n  - Added DVD Clash, a brand new team-based battle game.\n  - See Section 5 below for full rules, commands, and powerups!"
 }
